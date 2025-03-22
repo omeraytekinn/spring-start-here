@@ -1,4 +1,4 @@
-package com.omeraytekin.defining_beans.example_4.main;
+package com.omeraytekin.wiring_beans.example_1.main;
 
 public class Parrot {
     private String name;

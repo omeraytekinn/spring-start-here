@@ -1,11 +1,11 @@
-package com.omeraytekin.defining_beans.example_4.config;
+package com.omeraytekin.wiring_beans.example_1.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
 
-import com.omeraytekin.defining_beans.example_4.main.Parrot;
-import com.omeraytekin.defining_beans.example_4.main.Person;
+import com.omeraytekin.wiring_beans.example_1.main.Parrot;
+import com.omeraytekin.wiring_beans.example_1.main.Person;
 
 @Configuration
 public class ProjectConfig {

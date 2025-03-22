@@ -1,9 +1,9 @@
-package com.omeraytekin.defining_beans.example_4.main;
+package com.omeraytekin.wiring_beans.example_1.main;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-import com.omeraytekin.defining_beans.example_4.config.ProjectConfig;
+import com.omeraytekin.wiring_beans.example_1.config.ProjectConfig;
 
 public class Main {
     public static void main(String[] args) {
