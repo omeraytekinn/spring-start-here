@@ -1,6 +1,5 @@
 package com.omeraytekin.using_abstractions.example_4.services;
 
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
 import com.omeraytekin.using_abstractions.example_4.models.Comment;
